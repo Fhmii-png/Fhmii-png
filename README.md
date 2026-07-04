@@ -85,11 +85,10 @@ For me, every bug is an opportunity to learn, every project is a step forward, a
     alt="Pacman Contribution Graph"
     src="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/pacman-contribution-graph.svg">
 </picture>
----
+
 
 <div align="center">
-  <img src="www.linkedin.com/in/mhmmd-fhmiii-5172883aa" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
-
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
