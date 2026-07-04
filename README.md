@@ -24,7 +24,7 @@ I’ve always admired Iron Man—not just because of the suit, but because of th
 
 For me, every bug is an opportunity to learn, every project is a step forward, and every line of code brings me closer to turning ambitious ideas into reality.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/arco.stdio](https://www.instagram.com/mhmmdfhmiiiii_/)) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmmdfhmiiiii_/)
 
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
