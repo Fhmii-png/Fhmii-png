@@ -2,7 +2,7 @@ name: Generate Arcade Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -16,23 +16,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
 
     steps:
       - name: Generate Arcade Contribution Graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/arcade-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-          # Bisa diganti menjadi:
-          # pacman
-          # bomberman
-          # breakout
-          # galaga
-          # minesweeper
-          games: pacman
-
-      - name: Push SVG to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
