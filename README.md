@@ -79,9 +79,9 @@ For me, every bug is an opportunity to learn, every project is a step forward, a
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/pacman-contribution-graph.svg">
 
- <img
-  src="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/pacman-contribution-graph-dark.svg"
-  alt="Pacman Contribution Graph">
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/pacman-contribution-graph.svg">
 </picture>
 
 
@@ -90,3 +90,6 @@ For me, every bug is an opportunity to learn, every project is a step forward, a
 </div>
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+bagian mana yang di ubah
