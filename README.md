@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<img src="https://raw.githubusercontent.com/arcstar77/arcstar77/output/snake.svg" alt="Snake animation" />
+
 
 
 <picture>
