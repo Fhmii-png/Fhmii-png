@@ -73,15 +73,15 @@ For me, every bug is an opportunity to learn, every project is a step forward, a
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/arcade-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/pacman-contribution-graph-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/arcade-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/pacman-contribution-graph.svg">
 
   <img
-    alt="Arcade Contribution Graph"
-    src="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/arcade-contribution-graph-dark.svg">
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Fhmii-png/Fhmii-png/output/pacman-contribution-graph.svg">
 </picture>
 
 
