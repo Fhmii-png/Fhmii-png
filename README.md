@@ -2,11 +2,11 @@
   <table>
     <tr>
       <td style="border: none; vertical-align: middle;">
-        <h2 style="margin: 0;">Hi there!, I'm</h2>
+        <h2 style="margin: 0;">Halo Bang</h2>
       </td>
       <td style="border: none; vertical-align: middle;">
         <a href="https://github.com/arcstar77">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7DF1E&center=false&vCenter=true&width=110&lines=Super;Fhmii" alt="Fahmi" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7DF1E&center=false&vCenter=true&width=110&lines=Superrr;Fhmiii" alt="Fahmi" />
         </a>
       </td>
       <td style="border: none; vertical-align: middle;">
